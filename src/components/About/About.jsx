@@ -41,7 +41,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            
+            A passionate full-stack developer with strong foundations in frontend development, backend systems, and logical problem-solving. I enjoy building clean, responsive, and user-focused web applications while continuously sharpening my programming, debugging, and system design skills.
           </p>
           {/* Resume Button */}
           <a
@@ -71,7 +71,7 @@ const About = () => {
           >
             <img
               src={profileImage}
-              alt="Tarun Kaushik"
+              alt="Saakshi Jha"
               className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
             />
           </Tilt>
